@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Hello!
+tagline: our story
 ---
 {% include JB/setup %}
 
@@ -13,14 +13,14 @@ tagline: Supporting tagline
   position: relative;
   margin-top: 30px;
   margin-bottom: 30px;
-  height: 45px;
+  height: 60px;
 }
 .line {
   height: 4px;
   background-color: #888;
   width: 100%;
   top: 50%;
-  margin-top: -2px;
+  margin-top: 4px;
   position: absolute;
 }
 .time-item {
@@ -33,10 +33,10 @@ tagline: Supporting tagline
   display: block;
   background-color: #1A69EC;
   color: #fff;
-  border-radius: 45px;
-  width: 45px;
-  height: 45px;
-  line-height: 45px;
+  border-radius: 60px;
+  width: 60px;
+  height: 60px;
+  line-height: 60px;
   font-size: 13px;
   text-align: center;
 }
@@ -71,7 +71,7 @@ tagline: Supporting tagline
 <div class="timeline">
     <div class="line"></div>
     <div class="time-item">
-      <span class="time">2013</span>
+      <span class="time">2013.09</span>
       <div class="event">We met.</div>
     </div>
     <div class="time-item">
