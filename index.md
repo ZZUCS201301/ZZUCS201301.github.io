@@ -5,42 +5,77 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+###This is our story
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
-
-## Update Author Attributes
-
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
-
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
-
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
-
-
+<script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+<style>
+.timeline {
+  position: relative;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  height: 45px;
+}
+.line {
+  height: 4px;
+  background-color: #888;
+  width: 100%;
+  top: 50%;
+  margin-top: -2px;
+  position: absolute;
+}
+.time-item {
+  position: relative;
+  display: inline-block;
+  zoom: 1;
+  margin-right: 40px;
+}
+.time {
+  display: block;
+  background-color: #1A69EC;
+  color: #fff;
+  border-radius: 45px;
+  width: 45px;
+  height: 45px;
+  line-height: 45px;
+  font-size: 13px;
+  text-align: center;
+}
+.event {
+  background-color: rgba(0,0,0,.8);
+  padding: 10px;
+  border-radius: 4px;
+  -webkit-border-radius: 4px;
+  display: none;
+  position: absolute;
+  bottom: 40px;
+  color: #fff;
+}
+.event:before {
+  content: "";
+  display: block;
+  position: absolute;
+  bottom: -20px;
+  height: 0;
+  width: 0;
+  overflow: hidden;
+  font-size: 0;
+  line-height: 0;
+  border-color: rgba(0,0,0,.8) transparent transparent transparent;
+  border-style: solid dashed dashed dashed;
+  border-width: 40px 0 0 0;
+}
+.time-item:hover .event {
+  display: block;
+}
+</style>
+<div class="timeline">
+    <div class="line"></div>
+    <div class="time-item">
+      <span class="time">2013</span>
+      <div class="event">We met.</div>
+    </div>
+    <div class="time-item">
+      <span class="time">2014</span>
+      <div class="event">To be continued</div>
+    </div>
+</div>
