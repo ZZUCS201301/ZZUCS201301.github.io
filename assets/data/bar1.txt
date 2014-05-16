@@ -1,0 +1,8 @@
+{
+images:[
+{'src' : 'a_thumb/01', 'place' : 'fun'},
+{'src' : 'a_thumb/02', 'place' : 'fun'},
+{'src' : 'a_thumb/03', 'place' : 'fun'},
+{'src' : 'a_thumb/04', 'place' : 'fun'},
+       ]
+}
