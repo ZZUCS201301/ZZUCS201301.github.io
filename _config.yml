@@ -8,7 +8,7 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title :201324301
+title : 201324301
 tagline: Be happy
 author :
   name : Jackie Kuo
