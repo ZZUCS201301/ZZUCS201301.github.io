@@ -1,0 +1,11 @@
+---
+layout: page
+title : Board
+header : Post Archive
+group: navigation
+---
+{% include JB/setup %}
+
+##Board
+
+{% include JB/comments %}
