@@ -1,6 +1,6 @@
 ---
 layout: page
-title : Board
+title : 留言板
 header : Post Archive
 group: navigation
 ---
