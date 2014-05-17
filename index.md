@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 我们是编号201324301!
-tagline: our story
+title: 编号201324301
+tagline: --our story
 ---
 {% include JB/setup %}
 
