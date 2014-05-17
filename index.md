@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello!
+title: 我们是编号201324301!
 tagline: our story
 ---
 {% include JB/setup %}
@@ -20,7 +20,7 @@ tagline: our story
   background-color: #888;
   width: 100%;
   top: 50%;
-  margin-top: 4px;
+  margin-top: 0px;
   position: absolute;
 }
 .time-item {
