@@ -6,6 +6,4 @@ group: navigation
 ---
 {% include JB/setup %}
 
-##Board
-
 {% include JB/comments %}
