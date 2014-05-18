@@ -80,8 +80,17 @@ tagline: --our story
     </div>
 </div>
 
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>{% assign categories_list = page.categories %}{% include JB/categories_list %}</li>
-  {% endfor %}
+<ul class="tag_box inline">
+  {% assign categories_list = site.categories %}
+  {% include JB/categories_list %}
 </ul>
+
+
+{% for category in site.categories %} 
+  <h2 id="{{ category[0] }}-ref">{{ category[0] | join: "/" }}</h2>
+  <ul>
+    {% assign pages_list = category[1] %}  
+    {% include JB/pages_list %}
+  </ul>
+{% endfor %}
+
