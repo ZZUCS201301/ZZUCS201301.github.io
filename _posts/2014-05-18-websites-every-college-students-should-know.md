@@ -1,0 +1,19 @@
+---
+layout: post
+title: 有哪些适合大学生浏览的网站?
+description: 
+keywords: 
+category: 分享
+tagline: --our story
+tags: [知乎,知识分享]
+---
+{% include JB/setup %}
+
+*分享自[知乎](http://www.zhihu.com/question/20136746)，版权归原作者所有*
+
+<div class=" zm-editable-content clearfix"><b>教人思考，然后遇见的资料才能批判吸收。</b><br>阅读类：<br><a href="http://mindhacks.cn/" class=" wrap external" target="_blank" rel="nofollow">刘未鹏 | Mind Hacks<i class="icon-external"></i></a>, 这个网站用来给大学生洗脑，知道什么才是真的思考，授人以鱼，不如授人以渔。<br><a href="http://www.ruanyifeng.com/blog/" class=" wrap external" target="_blank" rel="nofollow">阮一峰的网络日志<i class="icon-external"></i></a> 做学问的态度，不看他的博客，不知道自己多无知<br><a href="http://www.geekonomics10000.com/" class=" wrap external" target="_blank" rel="nofollow">学而时嘻之<i class="icon-external"></i></a> 看看理科生的思维，不一样的角度<br><a href="http://www.infzm.com/" class=" wrap external" target="_blank" rel="nofollow">南方周末 - 首页<i class="icon-external"></i></a>， 在这里读懂中国，里面的文章确实有深度，涨见识<br><a href="http://www.zreading.cn/" class=" wrap external" target="_blank" rel="nofollow">左岸读书_blog|一切成功均源自积累！<i class="icon-external"></i></a> 谁的青春不迷茫，不积跬步不至千里，看看别人的感悟<br><a href="http://www.read.org.cn/" class=" wrap external" target="_blank" rel="nofollow">战隼的学习探索<i class="icon-external"></i></a>所有的知识中最重要的知识就是去学学习方法<br><a href="http://songshuhui.net/" class=" wrap external" target="_blank" rel="nofollow">科学松鼠会 :: 让我们剥开科学的坚果<i class="icon-external"></i></a> 没有什么比学一点科学好了，懂点高端的，理性一线<br><a href="http://www.guokr.com/" class=" wrap external" target="_blank" rel="nofollow">果壳网 科技有意思<i class="icon-external"></i></a>  里面有MOOC课程 资源丰富<br>IT类：<br><a href="http://www.iplaysoft.com/" class=" wrap external" target="_blank" rel="nofollow">异次元软件世界<i class="icon-external"></i></a> 我的第一个浏览的软件网站，通过这个网站可以知道很多好软件，给大学生再合适不过了<br><a href="http://www.ifanr.com/" class=" wrap external" target="_blank" rel="nofollow">爱范儿 · Beats of Bits<i class="icon-external"></i></a>这里面的文章有观点，有态度，有意思，关于IT类的，载入速度巨快，我喜欢<br><a href="http://www.36kr.com/" class=" wrap external" target="_blank" rel="nofollow">36氪 | 关注互联网创业<i class="icon-external"></i></a> 以前的深度文章多一些，感觉现在少了<br><a href="http://www.huxiu.com/" class=" wrap external" target="_blank" rel="nofollow">虎嗅网<i class="icon-external"></i></a>初次看这个网站，我觉得世界上关于商业爱讨论的人太多了，可以看到很多观点<br><a href="http://www.zhihu.com/" class="internal">首页</a> 知乎确实是一个的好网站，确实可以学到非常多的知识，见识巨多牛人<br><a href="http://www.douban.com/" class=" wrap external" target="_blank" rel="nofollow">豆瓣<i class="icon-external"></i></a>在这里看深度书评，深度影评<br>思想类：<br><a href="http://www.yhcqw.com/" class=" wrap external" target="_blank" rel="nofollow">炎黄春秋_主页<i class="icon-external"></i></a>  不解释<br><br><br>来之知乎的<a href="http://www.zhihu.com/people/wuyuxi" class="internal">Yuxi Wu</a>推荐<a href="http://www.ted.com/" class=" wrap external" target="_blank" rel="nofollow">TED: Ideas worth spreading<i class="icon-external"></i></a>，<a href="http://www.21ccom.net/" class=" wrap external" target="_blank" rel="nofollow">共识网―在大变革时代寻找共识<i class="icon-external"></i></a>，与君共享.<br>娱乐：<br><a href="http://tv.sohu.com/drama/us/" class=" wrap external" target="_blank" rel="nofollow">美剧频道 - 搜狐视频<i class="icon-external"></i></a> 在这里看的《绝命毒师》<br><a href="http://www.amazon.cn/" class=" wrap external" target="_blank" rel="nofollow">亚马逊-网上购物商城：要网购, 就来Z.cn!<i class="icon-external"></i></a> 之所以推荐亚马逊是我认为他的算法确实好，物流确实快<br><a href="http://www.qiushibaike.com/" class=" wrap external" target="_blank" rel="nofollow">8小时内最尴尬糗事
+
+ :: 糗事百科 :: 快乐减压 健康生活<i class="icon-external"></i></a> 以前的糗事百科，我确实笑了，现在没事也会看，确实今不如昨<br><a href="http://www.cnbeta.com/" class=" wrap external" target="_blank" rel="nofollow">cnBeta.COM_中文业界资讯站<i class="icon-external"></i></a> 归类到娱乐，不解释，闲的时候刷一次<br>
+</div>
+
+欢迎补充！
