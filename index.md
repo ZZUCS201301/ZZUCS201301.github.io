@@ -79,3 +79,9 @@ tagline: --our story
       <div class="event">To be continued</div>
     </div>
 </div>
+
+<ul class="posts">
+  {% for post in site.posts %}
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>{% assign categories_list = page.categories %}{% include JB/categories_list %}</li>
+  {% endfor %}
+</ul>
