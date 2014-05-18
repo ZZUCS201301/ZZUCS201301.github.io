@@ -72,7 +72,7 @@ tagline: --our story
     <div class="line"></div>
     <div class="time-item">
       <span class="time">2013.09</span>
-      <div class="event">We met.</div>
+      <div class="event">We entered ZZU and met.</div>
     </div>
     <div class="time-item">
       <span class="time">2014</span>
