@@ -1,7 +1,5 @@
 {
 images:[
-{'src' : 'sports2014_thumb/01', 'place' : '篮球'},
-{'src' : 'sports2014_thumb/02', 'place' : '篮球'},
 {'src' : 'sports2014_thumb/03', 'place' : '篮球'},
 {'src' : 'sports2014_thumb/04', 'place' : '运动'},
        ]
